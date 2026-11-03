@@ -1,0 +1,12 @@
+# Archivos compilados
+*.class
+
+# Archivos empaquetados
+*.war
+*.ear
+*.zip
+*.tar.gz
+
+#vs code
+.vscode/
+bin/
